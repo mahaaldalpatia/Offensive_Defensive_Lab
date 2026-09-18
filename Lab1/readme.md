@@ -48,27 +48,6 @@ about the target.
 Nessus was used to scan the target and identify security vulnerabilities
 along with their severity levels.
 
-## Screenshots
-
-### 1. Nmap Service Scan
-
-![Nmap Service Scan](screenshots/01-nmap-scan.png)
-
-### 2. Network Configuration
-
-![Network Configuration](screenshots/02-ifconfig.png)
-
-### 3. Ping Connectivity Test
-
-![Ping Connectivity Test](screenshots/03-ping.png)
-
-### 4. Nmap OS and Service Detection
-
-![Nmap OS Scan](screenshots/04-nmap-os-scan.png)
-
-### 5. Nessus Vulnerability Scan Results
-
-![Nessus Results](screenshots/05-nessus-results.png)
 
 ## Result
 
